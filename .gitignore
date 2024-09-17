@@ -1,2 +1,4 @@
 # VSCODE
 .env
+
+__pycache__
