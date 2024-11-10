@@ -1,6 +1,6 @@
 """
 Created 11/02/2022
-Kristoffer Nesland, kristoffer@solutionseeker.no
+Kristoffer Nesland, kristoffernesland@gmail.com
 
 ...
 """
